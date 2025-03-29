@@ -24,22 +24,7 @@
     border: 30px outset #000000;
     /* border-top: none; */
 }
-/* .red, .yellow, .green {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    display: inline-block;
-    margin: 3px;
-} */
-/* .red {
-    background-color: red;
-    border: 3px solid #ac0a0a;
-} */
-/* .yellow {
-    background-color: yellow;
-    border: 3px solid #dae508;
-} */
-/* .green {
-    background-color: green;
-    border: 3px solid #1f4606;
-} */
+.traffic-light {
+    filter:drop-shadow(0 0 1px rgba(126, 122, 122, 0.9));
+    border: 5px double rgb(241, 239, 239) ;
+}
